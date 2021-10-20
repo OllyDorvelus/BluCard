@@ -1,0 +1,1 @@
+Random HTML snippets to be pasted in GoDaddy's website builder for client.
